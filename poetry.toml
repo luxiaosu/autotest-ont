@@ -1,0 +1,3 @@
+cache-dir = ".\\pypoetry\\Cache"
+[virtualenvs]
+create = true

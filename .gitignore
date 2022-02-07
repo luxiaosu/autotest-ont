@@ -1,0 +1,11 @@
+# vscode
+/.vscode
+
+# virtualenv
+/pypoetry
+
+# pycache
+__pycache__
+
+# pyc files
+*.pyc
